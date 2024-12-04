@@ -11,7 +11,7 @@
 
 ## Дополнительные ресурсы
 
-Golyandina, N. & Dudnik, P. [R-скрипты для идентификации периодических компонент и сигнала.](https://zenodo.org/records/xxxxxxx) DOI 10.5281/zenodo.xxxxxxx
+Golyandina, N. & Dudnik, P. [R-скрипты для идентификации периодических компонент и сигнала.](https://zenodo.org/records/14277459) DOI 10.5281/zenodo.14277458
 
 ## Примеры
 
